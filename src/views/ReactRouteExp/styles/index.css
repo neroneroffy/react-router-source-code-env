@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+}
+.header a {
+    display: block;
+    margin: 10px;
+}
+.container {
+    margin: 10px;
+}
